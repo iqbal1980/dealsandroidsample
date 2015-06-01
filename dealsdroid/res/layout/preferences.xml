@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference android:summary="Location Polling Period" android:defaultValue="10" android:title="Location Polling Period" android:key="locationPeriod"></EditTextPreference>
+<EditTextPreference android:summary="Deals Search Period" android:defaultValue="10" android:title="Deals Search Period" android:key="dealsPeriod"></EditTextPreference>
+<EditTextPreference android:summary="Please provide your email email" android:defaultValue="" android:title="Please provide your email email" android:key="email"></EditTextPreference>
+<EditTextPreference android:summary="Token On or Off" android:defaultValue="1" android:title="Token On or Off" android:key="token"></EditTextPreference>
+</PreferenceScreen>
